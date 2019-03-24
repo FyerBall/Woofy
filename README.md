@@ -1,4 +1,4 @@
 # Woofy
 
-A dating site for dogs.
+NOTE:
 The idea of the site and the design came from an online course 
